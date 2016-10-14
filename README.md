@@ -1,23 +1,23 @@
 # mercado_online
 
 
-Detalhes:
+<b>Detalhes</b>:
 	Esse site foi construído especificamente para o processo seletivo da Valemobi.
 
 
-Especificações:
-	backend: PHP 5.6 + framework Yii2 (basic)
-	frontend: Javascript + JQuery (integrado ao Yii2) + yii2-money (kartik-v) + Bootstrap (integrado ao Yii2)
-	ferramentas: Netbeans 8.2 + composer
-	sgbd: MySQL
+<b>Especificações:</b>
+	+ <b>backend:</b> PHP 5.6 + framework Yii2 (basic)<br>
+	+ <b>frontend:</b> Javascript + JQuery (integrado ao Yii2) + yii2-money (kartik-v) + Bootstrap (integrado ao Yii2)<br>
+	+ <b>ferramentas:</b> Netbeans 8.2 + composer<br>
+	+ <b>sgbd:</b> MySQL<br>
 
 
-Detalhes a respeito da implementação:
+<b>Detalhes a respeito da implementação:</b>
 	O framework Yii2 segue o modelo MVC. 
 	Portanto, pode-se encontrar os fontes relacionados às páginas em:
-		basic/models
-		basic/controllers
-		basic/views
+		+ basic/models<br>
+		+ basic/controllers<br>
+		+ basic/views<br>
 
 	Para uso do framework, é necessário antes baixar o framework Yii2 e copiar o diretório
 	vendor para a pasta basic. Um pacote completo encontra-se em:
