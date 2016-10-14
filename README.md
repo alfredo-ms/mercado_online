@@ -5,7 +5,7 @@
 	Esse site foi construído especificamente para o processo seletivo da Valemobi.
 
 
-<b>Especificações:</b>
+<b>Especificações:</b><br>
 	+ <b>backend:</b> PHP 5.6 + framework Yii2 (basic)<br>
 	+ <b>frontend:</b> Javascript + JQuery (integrado ao Yii2) + yii2-money (kartik-v) + Bootstrap (integrado ao Yii2)<br>
 	+ <b>ferramentas:</b> Netbeans 8.2 + composer<br>
